@@ -3,14 +3,14 @@ My templates for everyday work
 
 ## Categories
 
-### Management
+### ❤️ Management
 
 Helpful templates for managers focus on growing individuals and teams.
 
 - [One on one sessions](./management/1on1.md)
 - [Personal growth plan](./management/personal-growth-plan.md)
 
-### Ops
+### ⚙️ Ops
 
 Templates to ensure things get done with high quality
 
