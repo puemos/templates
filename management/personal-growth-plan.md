@@ -23,8 +23,6 @@ Try to describe **in one sentence**, what you will like to achieve next in your 
 
 ### Current state
 
-#### Focus areas
-
 Write down 3 things (yes, only 3) that you **are doing well**.
 
 ```
@@ -32,6 +30,8 @@ Write down 3 things (yes, only 3) that you **are doing well**.
 2. ...
 3. ...
 ```
+
+---
 
 And now, 3 things that you **can do better**.
 
@@ -41,7 +41,7 @@ And now, 3 things that you **can do better**.
 3. ...
 ```
 
-#### Dive in
+---
 
 **Technical Skills**, coding, system design, architecture, tooling, research.
 
@@ -55,6 +55,9 @@ Area for improvement
 ...
 ```
 
+---
+
+
 **Communication**, written and oral communication (docs, messages, presentations), abstracting technical topics, talking with other departments.
 
 Strengths
@@ -67,6 +70,7 @@ Area for improvement
 ...
 ```
 
+---
 
 **Leadership**, decision making, coaching, mentoring, teaching.
 
@@ -96,6 +100,8 @@ How I'm going to accomplish it
 3. ...
 ```
 
+---
+
 **Goal 2**
 ```
 ...
@@ -107,6 +113,8 @@ How I'm going to accomplish it
 2. ...
 3. ...
 ```
+
+---
 
 **Goal 3**
 ```
