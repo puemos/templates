@@ -23,7 +23,7 @@ Try to describe **in one sentence**, what you will like to achieve next in your 
 
 ### Current state
 
-Write down 3 things (yes, only 3) that you **are doing well**.
+👍 Write down 3 things (yes, only 3) that you **are doing well**.
 
 ```
 1. ...
@@ -31,9 +31,8 @@ Write down 3 things (yes, only 3) that you **are doing well**.
 3. ...
 ```
 
----
 
-And now, 3 things that you **can do better**.
+👎 And now, 3 things that you **can do better**.
 
 ```
 1. ...
@@ -41,46 +40,53 @@ And now, 3 things that you **can do better**.
 3. ...
 ```
 
----
 
-**Technical Skills**, coding, system design, architecture, tooling, research.
+**🧰 Technical Skills**
 
-Strengths
+Coding, system design, architecture, tooling, research.
+
 ```
+Strengths:
+
 ...
 ```
 
-Area for improvement
 ```
+Area for improvement:
+
 ...
 ```
 
----
 
 
-**Communication**, written and oral communication (docs, messages, presentations), abstracting technical topics, talking with other departments.
+**📮 Communication**
 
-Strengths
+Written and oral communication (docs, messages, presentations), abstracting technical topics, talking with other departments.
+
 ```
+Strengths:
+
 ...
 ```
 
-Area for improvement
 ```
+Area for improvement:
+
 ...
 ```
 
----
+**🧭 Leadership**
+Decision making, coaching, mentoring, teaching.
 
-**Leadership**, decision making, coaching, mentoring, teaching.
-
-Strengths
 ```
+Strengths:
+
 ...
 ```
 
-Area for improvement
 ```
+Area for improvement:
+
 ...
 ```
 
@@ -100,8 +106,6 @@ How I'm going to accomplish it
 3. ...
 ```
 
----
-
 **Goal 2**
 ```
 ...
@@ -113,8 +117,6 @@ How I'm going to accomplish it
 2. ...
 3. ...
 ```
-
----
 
 **Goal 3**
 ```
