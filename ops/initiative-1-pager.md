@@ -22,7 +22,7 @@ What does success look like? What metrics are you intending to move? Explain why
 
 Show some mocks of the experience. Link to any other documentation as necessary. In general, it’s helpful to organize these around certain user journeys / use cases. Show enough of a clickthrough where people can walk away with a reasonable understanding of how the product works.
 
-### Key Features and Milstones
+### Key Features and Milestones
 
 Give an overview of what we’re building. Provide an organized list of features, with priorities if relevant. Discuss what you’re not building (or saving for a future release) if relevant.
 
