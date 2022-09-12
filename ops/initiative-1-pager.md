@@ -60,6 +60,11 @@ As a user I will like to...
 
 Keep track of open issues / key decisions here. Sometimes, certain decisions are made that might feel controversial; document these here so people know that the discussions have happened and there’s strong awareness of the tradeoffs.
 
+| Item       | Answer/Decisions  | Status |
+| ---------- | ----------------- | ------ |
+| What if... | We will...        | ✅     |
+| What if... | -                 | ❓     |
+
 ### Tech design
 
 Link to a technical design doc
@@ -102,22 +107,6 @@ Make sure you answer all of the questions below and involve necessary stakeholde
 
 ## Appendix
 
-### Changelog
-
-List key decisions or updates you make for future reference. Include who was involved and link to notes doc, if relevant. Recommend moving this up top once approved so changes are more visible.
-
-| Date       | Description      |
-| ---------- | ---------------- |
-| 23/11/2022 | Remove feature A |
-
-### Open Questions
-
-Track open questions and answers here.
-
-| Question   | Answer  | Status |
-| ---------- | ------- | ------ |
-| What if... | We will | ✅     |
-| What if... | -       | ❓     |
 
 ### FAQs
 
