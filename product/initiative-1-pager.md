@@ -1,18 +1,18 @@
-# Initiative:
+# Initiative
 
 ## Problem Alignment
 
 ### The Problem
 
-Describe the problem (or opportunity) you’re trying to solve. Why is it important to our users and our business? What insights are you operating on? And if relevant, what problems are you not intending to solve?
+>Describe the problem (or opportunity) you’re trying to solve. Why is it important to our users and our business? What insights are you operating on? And if relevant, what problems are you not intending to solve?
 
 ### High-level Approach
 
-Describe briefly the approach you’re taking to solve this problem. This should be enough for the reader to imagine possible solution directions and get a very rough sense of the scope of this project. (e.g., if “The Problem” was engagement in the design process from non-designers, “The Approach” might be a feed which surfaces work that's relevant to them.)
+>Describe briefly the approach you’re taking to solve this problem. This should be enough for the reader to imagine possible solution directions and get a very rough sense of the scope of this project. (e.g., if “The Problem” was engagement in the design process from non-designers, “The Approach” might be a feed which surfaces work that's relevant to them.)
 
 ### Goals & Success
 
-What does success look like? What metrics are you intending to move? Explain why these metrics are important if not obvious.
+>What does success look like? What metrics are you intending to move? Explain why these metrics are important if not obvious.
 
 ---
 
@@ -20,11 +20,11 @@ What does success look like? What metrics are you intending to move? Explain why
 
 ### Key Flows
 
-Show some mocks of the experience. Link to any other documentation as necessary. In general, it’s helpful to organize these around certain user journeys / use cases. Show enough of a clickthrough where people can walk away with a reasonable understanding of how the product works.
+>Show some mocks of the experience. Link to any other documentation as necessary. In general, it’s helpful to organize these around certain user journeys / use cases. Show enough of a clickthrough where people can walk away with a reasonable understanding of how the product works.
 
 ### Key Features and Milestones
 
-Give an overview of what we’re building. Provide an organized list of features, with priorities if relevant. Discuss what you’re not building (or saving for a future release) if relevant.
+>Give an overview of what we’re building. Provide an organized list of features, with priorities if relevant. Discuss what you’re not building (or saving for a future release) if relevant.
 
 **Milstone v1 — Short title**
 
@@ -58,7 +58,7 @@ As a user I will like to...
 
 ### Open Issues & Key Decisions
 
-Keep track of open issues / key decisions here. Sometimes, certain decisions are made that might feel controversial; document these here so people know that the discussions have happened and there’s strong awareness of the tradeoffs.
+>Keep track of open issues / key decisions here. Sometimes, certain decisions are made that might feel controversial; document these here so people know that the discussions have happened and there’s strong awareness of the tradeoffs.
 
 | Item       | Answer/Decisions  | Status |
 | ---------- | ----------------- | ------ |
@@ -67,7 +67,7 @@ Keep track of open issues / key decisions here. Sometimes, certain decisions are
 
 ### Tech design
 
-Link to a technical design doc
+>Links to a technical design doc
 
 ---
 
@@ -75,7 +75,7 @@ Link to a technical design doc
 
 ### Go to Market
 
-Identify any relevant milestones (e.g., a Dogfood or Beta milestone) that people should know about. Make sure to show when you’re expecting to publicly launch, too.
+>Identify any relevant milestones (e.g., a Dogfood or Beta milestone) that people should know about. Make sure to show when you’re expecting to publicly launch, too.
 
 | Date        | Milestone  | Audience                                       | Description           |
 | ----------- | ---------- | ---------------------------------------------- | --------------------- |
@@ -85,7 +85,7 @@ Identify any relevant milestones (e.g., a Dogfood or Beta milestone) that people
 
 ### Launch Checklist
 
-Make sure you answer all of the questions below and involve necessary stakeholders.
+>Make sure you answer all of the questions below and involve necessary stakeholders.
 
 | Area               | Question                                                                                                                                                                                               | Answer | Instructions if "Yes” (or unsure) |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | --------------------------------- |
@@ -110,7 +110,7 @@ Make sure you answer all of the questions below and involve necessary stakeholde
 
 ### FAQs
 
-Optional: Include an FAQ when helpful to answer high level questions so it is easier for people to grasp the point of the project without getting lost in the details of product definition.
+>Optional: Include an FAQ when helpful to answer high level questions so it is easier for people to grasp the point of the project without getting lost in the details of product definition.
 
 <details>
   <summary>Question 1</summary>
