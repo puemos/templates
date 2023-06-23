@@ -17,3 +17,4 @@ Templates to ensure things get done with high quality
 - [Initiative one pager](./product/initiative-1-pager.md)
 - [Pitch](./product/pitch.md)
 - [Risk assessment](./product/risk-assessment.md)
+- [Product strategy](./product/strategy.md)
