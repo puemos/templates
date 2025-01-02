@@ -17,7 +17,7 @@
 
 Try to describe **in one sentence**, what you will like to achieve next in your career, and
 
-```
+```markdown
 ...
 ```
 
@@ -25,7 +25,7 @@ Try to describe **in one sentence**, what you will like to achieve next in your 
 
 👍 Write down 3 things (yes, only 3) that you **are doing well**.
 
-```
+```markdown
 1. ...
 2. ...
 3. ...
@@ -34,7 +34,7 @@ Try to describe **in one sentence**, what you will like to achieve next in your 
 
 👎 And now, 3 things that you **can do better**.
 
-```
+```markdown
 1. ...
 2. ...
 3. ...
@@ -45,13 +45,13 @@ Try to describe **in one sentence**, what you will like to achieve next in your 
 
 Coding, system design, architecture, tooling, research.
 
-```
+```markdown
 Strengths:
 
 ...
 ```
 
-```
+```markdown
 Area for improvement:
 
 ...
@@ -63,13 +63,13 @@ Area for improvement:
 
 Written and oral communication (docs, messages, presentations), abstracting technical topics, talking with other departments.
 
-```
+```markdown
 Strengths:
 
 ...
 ```
 
-```
+```markdown
 Area for improvement:
 
 ...
@@ -78,13 +78,13 @@ Area for improvement:
 **🧭 Leadership**
 Decision making, coaching, mentoring, teaching.
 
-```
+```markdown
 Strengths:
 
 ...
 ```
 
-```
+```markdown
 Area for improvement:
 
 ...
@@ -95,36 +95,36 @@ Area for improvement:
 Define 3 goals for the next 3 months, and for each goal, define some ideas on how you will accomplish them.
 
 **Goal 1**
-```
+```markdown
 ...
 ```
 
 How I'm going to accomplish it
-```
+```markdown
 1. ...
 2. ...
 3. ...
 ```
 
 **Goal 2**
-```
+```markdown
 ...
 ```
 
 How I'm going to accomplish it
-```
+```markdown
 1. ...
 2. ...
 3. ...
 ```
 
 **Goal 3**
-```
+```markdown
 ...
 ```
 
 How I'm going to accomplish it
-```
+```markdown
 1. ...
 2. ...
 3. ...
